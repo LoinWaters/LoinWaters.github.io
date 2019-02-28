@@ -1,9 +1,9 @@
 
-<html>
+
 <head>
 
 </head>
-<body>
+
 
 <h1>A guide to failing, With Tarek</h1>
 
